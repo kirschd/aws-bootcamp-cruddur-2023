@@ -21,6 +21,8 @@ During these video follow along, I Create a Billing Alarm and Budget, and follow
 
 Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
+![Cruddur - Napkin diagram](https://user-images.githubusercontent.com/3028476/221402641-b88ce506-edfd-4dc2-b6f2-e4e91b470202.png)
+
 Recreate Logical Architectual Diagram in Lucid Charts
 
 ![Cruddur Logical Diagram](https://user-images.githubusercontent.com/3028476/221399073-e08b9a85-a4d4-4905-924c-cafbd05bb27a.png)
